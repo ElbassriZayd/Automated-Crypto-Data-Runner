@@ -56,6 +56,7 @@ pip install pandas requests
 4. **Run the Script**
 Open `Crypto_API.ipynb` in Jupyter Notebook or VS Code and execute the cells. The `api_runner` loop is set to run for a defined number of iterations.
 
+<img width="629" height="489" alt="download (1)" src="https://github.com/user-attachments/assets/ea3bddb1-2527-4884-a1f1-68423a06ea31" />
 
 ---
 
